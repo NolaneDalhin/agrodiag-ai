@@ -72,13 +72,3 @@ L'application analyse une photo de plante prise par l'utilisateur et fournit :
 ```bash
 git clone https://github.com/NolaneDalhin/agrodiag-ai.git
 cd agrodiag-ai
-
-## 👨‍💻 Développeur
-
-**Dalhin TOLENOU**
-
-Étudiant en Technologies de l'Information et de la Communication (TIC3)
-
-🏫 **IRGIB-AFRICA** — Cotonou, Bénin
-
-Projet de soutenance 2025-2026
