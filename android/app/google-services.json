@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806729412327",
+    "project_id": "agrodiag-ai",
+    "storage_bucket": "agrodiag-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806729412327:android:6872b482f79566b2243c42",
+        "android_client_info": {
+          "package_name": "com.example.agrodiag_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtKB8_6ftcUDLDIz19-Y-qS3DCzH_yomA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
